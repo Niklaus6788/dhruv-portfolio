@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Clean Deployment Portfolio (Prepared for Dhruv)
 
 This cleaned repository contains the deployment-ready static website for presentation.
@@ -11,3 +12,7 @@ This cleaned repository contains the deployment-ready static website for present
 ## Notes
 - This repo has been cleaned to remove development artifacts.
 - If your site uses a build step (e.g. Vite, React) ensure you upload the final `dist` or `build` folder instead.
+=======
+# dhruv-portfolio
+A responsive personal portfolio website showcasing my skills, projects, certifications, and content creation journey. Built with React, Vite, and Tailwind CSS.
+>>>>>>> fd76e2b5c6db020971396f90c0343f3c4d1c773c
